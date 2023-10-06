@@ -1,0 +1,5 @@
+Include: example.txt
+Device:  Microphone HyperX SoloCast {dbca8beb-7df9-452e-a282-b9d7e8ef0caf}
+VSTPlugin: Library D:\Downloads\rnnoise\win-rnnoise\vst\rnnoise_stereo.dll ChunkData "VkMyIdEAAAA8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PiA8Uk5Ob2lzZT48UEFSQU0gaWQ9InZhZF9ncmFjZV9wZXJpb2QiIHZhbHVlPSIyMC4wIi8+PFBBUkFNIGlkPSJ2YWRfcmV0cm9hY3RpdmVfZ3JhY2VfcGVyaW9kIiB2YWx1ZT0iMC4wIi8+PFBBUkFNIGlkPSJ2YWRfdGhyZXNob2xkIiB2YWx1ZT0iMC42Mzk5OTk5ODU2OTQ4ODUzIi8+PC9STk5vaXNlPgA="
+VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reagate-standalone.dll" Hipass 0.000186426 Thresh 0.0224141 Attack 0.00560706 Release 0.0828819 Pre-open 0.406329 Hold 0.011227 Lowpass 1 SignIn 0 AudIn 0 Dry 0 Noise 0 Wet 0.879394 Hystrsis 0.999731 PreviewF 0 "RMS size" 0 Usemidi 0 MidiNote 0.543307 MidiChan 0 InvrtWet 0
+VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reacomp-standalone.dll" Hipass 8.27008e-06 Thresh 0.0350344 Ratio 0 Attack 0.00266607 Release 0.02 Pre-comp 0 resvd 0 Lowpass 1 SignIn 0 AudIn 0 Dry 3.16228e-08 Wet 1 AutoMkUp 0 PreviewF 0 "RMS size" 0.005 Knee 0 AutoRel 0 ClsAttk 1 AntiAls 0
